@@ -1,0 +1,4 @@
+﻿  function.c
+C:\Users\이현창\Desktop\Programming\C\Linked_List\LinkedList_my\LinkedList_my\LinkedList_my\function.c(13,52): warning C4311: '형식 캐스트': 'list *'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\이현창\Desktop\Programming\C\Linked_List\LinkedList_my\LinkedList_my\LinkedList_my\function.c(9): warning C4716: 'initList': 값을 반환해야 합니다.
+  LinkedList_generic.vcxproj -> C:\Users\이현창\Desktop\Programming\C\Linked_List\LinkedList_my\LinkedList_my\x64\Debug\LinkedList_generic.exe

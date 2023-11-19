@@ -1,0 +1,9 @@
+﻿  list.c
+C:\Users\이현창\Desktop\Programming\C\Linked_List\Linked_List\list.h(1,1): warning C4828: 파일에 0x29e 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\Users\이현창\Desktop\Programming\C\Linked_List\Linked_List\list.c(6,1): error C2059: 구문 오류: '}'
+C:\Users\이현창\Desktop\Programming\C\Linked_List\Linked_List\list.c(13,1): fatal  error C1004: 예기치 않은 파일의 끝이 나타났습니다.
+  main.c
+C:\Users\이현창\Desktop\Programming\C\Linked_List\Linked_List\list.h(1,1): warning C4828: 파일에 0x29e 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\Users\이현창\Desktop\Programming\C\Linked_List\Linked_List\main.c(6,16): error C2440: '함수': 'node'에서 'node *'(으)로 변환할 수 없습니다.
+C:\Users\이현창\Desktop\Programming\C\Linked_List\Linked_List\main.c(6,16): warning C4024: 'createNode': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+  코드를 생성하고 있습니다...
